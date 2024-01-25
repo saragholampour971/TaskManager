@@ -1,0 +1,14 @@
+F:\hamkaran\Bootcamp-E01\bin\Debug\net8.0\Bootcamp-E01.exe
+F:\hamkaran\Bootcamp-E01\bin\Debug\net8.0\Bootcamp-E01.deps.json
+F:\hamkaran\Bootcamp-E01\bin\Debug\net8.0\Bootcamp-E01.runtimeconfig.json
+F:\hamkaran\Bootcamp-E01\bin\Debug\net8.0\Bootcamp-E01.dll
+F:\hamkaran\Bootcamp-E01\bin\Debug\net8.0\Bootcamp-E01.pdb
+F:\hamkaran\Bootcamp-E01\obj\Debug\net8.0\Bootcamp-E01.GeneratedMSBuildEditorConfig.editorconfig
+F:\hamkaran\Bootcamp-E01\obj\Debug\net8.0\Bootcamp-E01.AssemblyInfoInputs.cache
+F:\hamkaran\Bootcamp-E01\obj\Debug\net8.0\Bootcamp-E01.AssemblyInfo.cs
+F:\hamkaran\Bootcamp-E01\obj\Debug\net8.0\Bootcamp-E01.csproj.CoreCompileInputs.cache
+F:\hamkaran\Bootcamp-E01\obj\Debug\net8.0\Bootcamp-E01.dll
+F:\hamkaran\Bootcamp-E01\obj\Debug\net8.0\refint\Bootcamp-E01.dll
+F:\hamkaran\Bootcamp-E01\obj\Debug\net8.0\Bootcamp-E01.pdb
+F:\hamkaran\Bootcamp-E01\obj\Debug\net8.0\Bootcamp-E01.genruntimeconfig.cache
+F:\hamkaran\Bootcamp-E01\obj\Debug\net8.0\ref\Bootcamp-E01.dll

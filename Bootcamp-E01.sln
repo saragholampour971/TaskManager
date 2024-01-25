@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootcamp-E01", "Bootcamp-E01.csproj", "{3B616D3F-0C64-4EE8-B614-0D4CAA6DC41E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B616D3F-0C64-4EE8-B614-0D4CAA6DC41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B616D3F-0C64-4EE8-B614-0D4CAA6DC41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B616D3F-0C64-4EE8-B614-0D4CAA6DC41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B616D3F-0C64-4EE8-B614-0D4CAA6DC41E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
