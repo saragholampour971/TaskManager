@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+﻿using Bootcamp_E01.Entities;
 using Bootcamp_E01.types;
 
 List<TaskType> myTasks=new List<TaskType>()
@@ -9,44 +9,13 @@ List<TaskType> myTasks=new List<TaskType>()
 };
 
 
- List<T> orderListByProperty<T>(List<T> list,params string[] propertyNames)
- {
-     if (list == null || propertyNames == null || propertyNames.Length == 0)
-     {
-         return list;
-     }
-
-     var sortedList = list.AsQueryable();
-     foreach (var propName in propertyNames)
-     {
-         PropertyInfo propInfo = typeof(T).GetProperty(propName);
-         if (propInfo != null)
-         {
-             sortedList = sortedList.OrderBy(t => propInfo.GetValue(t, null));
-             
-             
-         }
-         else
-         {
-             Console.WriteLine($"invalid prop name {propName}");
-         }
-     }
-
-     return sortedList.ToList();
- }
-
-void printTasks(List<TaskType> list)
+TaskManager groupTaskOne = new()
 {
-    foreach (var task in list)
-{
-   Console.WriteLine($"{task.Title}, {task.Priority}  {task.DeadLine}");
-}
+  TaskList = myTasks
+};
 
-}
 
-var result = orderListByProperty(myTasks,"DeadLine","Priority");
-printTasks(result);
-
+groupTaskOne.printTasks(groupTaskOne.orderListByProperty(groupTaskOne.TaskList,"DeadLine","Priority"));
 
 
 

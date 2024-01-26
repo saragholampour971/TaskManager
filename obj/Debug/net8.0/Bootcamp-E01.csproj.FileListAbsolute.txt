@@ -12,3 +12,4 @@ F:\hamkaran\Bootcamp-E01\obj\Debug\net8.0\refint\Bootcamp-E01.dll
 F:\hamkaran\Bootcamp-E01\obj\Debug\net8.0\Bootcamp-E01.pdb
 F:\hamkaran\Bootcamp-E01\obj\Debug\net8.0\Bootcamp-E01.genruntimeconfig.cache
 F:\hamkaran\Bootcamp-E01\obj\Debug\net8.0\ref\Bootcamp-E01.dll
+F:\hamkaran\Bootcamp-E01\obj\Debug\net8.0\Bootcamp-E01.sourcelink.json
