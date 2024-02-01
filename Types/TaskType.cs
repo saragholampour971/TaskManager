@@ -8,6 +8,8 @@ public class TaskType
     public DateTime CreatedAt { get;  }
     public required DateTime DeadLine { get; set; } 
     public Priority Priority { get; set; }
+    public bool IsCompleted { get; set; }
+    public DateTime? CompletionDate { get; set; }
     
     public TaskType()
     {
